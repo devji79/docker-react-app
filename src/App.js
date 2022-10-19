@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Live updates work on Windows when updating scripts within <strong>package.json</strong> to contain <blockquote>"start": "WATCHPACK_POLLING=true react-scripts start"</blockquote></p>
       </header>
     </div>
   );
