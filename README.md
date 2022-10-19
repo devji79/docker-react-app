@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Docker React App
+A simple react application within a Docker container. The docker container makes use of a volume to automatically render changes within the web application.
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
