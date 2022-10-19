@@ -1,15 +1,15 @@
 # Docker React App
 A simple react application within a Docker container. The docker container makes use of a volume to automatically render changes within the web application.
 
-**NOTE: In order to get the changes within the volume to automatically refresh in Windows, the scripts within package.json needs to be updated to the following **
-'''
+**NOTE: In order to get the changes within the volume to automatically refresh in Windows, the scripts within package.json needs to be updated to the following**
+```
 "scripts": {
     "start": "WATCHPACK_POLLING=true react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-'''
+```
 
 # Getting Started
 
