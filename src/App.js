@@ -17,7 +17,8 @@ function App() {
         >
           Learn React and Travis CI
         </a>
-        <p>Live updates work on Windows when updating scripts within <strong>package.json</strong> to contain <blockquote>"start": "WATCHPACK_POLLING=true react-scripts start"</blockquote></p>
+        <p>Live updates work on Windows when updating scripts within <strong>package.json</strong> to contain</p>
+        <blockquote>"start": "WATCHPACK_POLLING=true react-scripts start"</blockquote>
       </header>
     </div>
   );
