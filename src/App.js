@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React and Travis CI
         </a>
         <p>Live updates work on Windows when updating scripts within <strong>package.json</strong> to contain <blockquote>"start": "WATCHPACK_POLLING=true react-scripts start"</blockquote></p>
       </header>
